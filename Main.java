@@ -109,6 +109,7 @@ public class Main {
             //salam
             //bye
             //hello
+            //food
         }
 
     }
