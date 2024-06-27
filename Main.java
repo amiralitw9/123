@@ -109,6 +109,8 @@ public class Main {
             //salam
             //bye
             //hello
+            //bye
+            //goodbye
         }
 
     }
